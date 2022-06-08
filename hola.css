@@ -1,0 +1,26 @@
+.cos{
+    padding-left: 350px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-inline-end: 20px;
+}
+.side1{
+    background-color: red;
+    width: 400px;
+    height: 100px;
+    float:left;
+}
+.side2{
+    background-color: blue;
+    width: 400px;
+    height: 100px;
+    float:left;
+    margin: 0px;
+}
+.footer{
+    text-align: center;
+    background-color: greenyellow;
+    width: 800px;
+    height: 20px;
+    float:left;
+}
